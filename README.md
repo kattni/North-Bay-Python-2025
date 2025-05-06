@@ -5,6 +5,8 @@ Presented by Kattni at North Bay Python 2025.
 
 [Contributor Covenant](https://www.contributor-covenant.org/) is a good starting point for a Code of Conduct for open source projects.
 
+[Burnout Self-Test](https://cdn.ymaws.com/www.palibraries.org/resource/collection/9E7F69CE-5257-4353-B71B-905854B5FA6B/Self-CareBurnoutSelf-Test.pdf) is a self-assessment to track burnout.
+
 ## References
 Anti-Defamation League. (2024, June 11). _Online Harassment and Hate: The American Experience 2024_ **https://www.adl.org/resources/report/online-hate-and-harassment-american-experience-2024**
 
